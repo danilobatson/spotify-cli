@@ -1,0 +1,24 @@
+{
+  "name": "spotify-cli",
+  "version": "1.0.0",
+  "description": "Spotify CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilobatson/spotify-cli.git"
+  },
+  "author": "Danilo Batson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danilobatson/spotify-cli/issues"
+  },
+  "homepage": "https://github.com/danilobatson/spotify-cli#readme",
+  "dependencies": {
+    "commander": "^9.0.0",
+    "inquirer": "^8.2.0",
+    "mongoose": "^6.2.3"
+  }
+}
