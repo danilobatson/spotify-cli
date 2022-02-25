@@ -4,7 +4,10 @@
   "description": "Spotify CLI",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "add" : "node commands.js add",
+    "delete": "node commands.js delete",
+    "find": "node commands.js find"
   },
   "repository": {
     "type": "git",
